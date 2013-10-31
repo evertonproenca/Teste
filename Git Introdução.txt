@@ -1,2 +1,2 @@
-Aula do Git
+Aula de Git
 31/10/2013
